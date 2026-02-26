@@ -1,8 +1,0 @@
-{
-  "name": "kost",
-  "main": "worker/index.js",
-  "compatibility_date": "2026-02-20",
-  "vars": {
-    "APPS_SCRIPT_URL": "https://script.google.com/macros/s/AKfycbwelL-C0NLEhTZHLN7oFP0c_3p03uWE56GqYApHdYa7AfwH3io9FO2cvhyN69jkhAeF/exec"
-  }
-}
